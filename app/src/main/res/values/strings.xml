@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">StartNg2</string>
+    <string name="MyName">Whoopie_Wanja</string>
+    <string name="slackID">Woupyie</string>
+    <string name="myEmail">woupyie99@gmail.com</string>
+    <string name="Hobby1">Read</string>
+    <string name="Hobby2">Swim</string>
+    <string name="Hobby3">Draw</string>
+    <string name="Hobby4">Travel</string>
 </resources>
